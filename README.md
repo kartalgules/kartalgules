@@ -1,4 +1,4 @@
-## :wave: Hi there! I'm **Kartal Gules**! I'm developing myself as Frontend Developer.
+## :wave: Hi there! I'm **Kartal Gules**! I'm developing myself as Full Stack Developer.
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,ts,nextjs,mongodb,postgres,postman,)](https://skillicons.dev) 
