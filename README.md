@@ -4,8 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,ts,nextjs,mongodb,postgres,postman,)](https://skillicons.dev) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kartalgules&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Profile views](https://gpvc.arturio.dev/kartalgules)  
+![](https://github-readme-stats.vercel.app/api?username=kartalgules&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 
 <!--
